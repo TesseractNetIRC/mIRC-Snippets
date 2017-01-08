@@ -1,4 +1,4 @@
-#psqm on
+}#psqm on
 
 alias psqm {
   if ($dialog(psqm)) { dialog -x psqm }
