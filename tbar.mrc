@@ -1,4 +1,4 @@
-on *:START: { tbar }
+}on *:START: { tbar }
 alias tbar {
   if ($dialog(tbar)) { dialog -x tbar }
   dialog -m tbar tbar
