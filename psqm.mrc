@@ -1,3 +1,5 @@
+##By Protheus at irc.tesseractnet.com
+
 #psqm on
 
 alias psqm {
